@@ -1,7 +1,4 @@
 Public bathrooms aren’t always clean places.  It is important that users have access to soap at all times.  Often, soap dispensers run out of soap, causing users to not be able to wash their hands. Our solution is to make a touchless soap dispenser that sends a text message to the cleaning staff when it gets below a certain soap level.
 
-Project Destails: https://docs.google.com/presentation/d/105qjIs77CAwrSzHPtfMiUaVFLenaDLTgAtUhmPPi2Yk/edit?slide=id.g3b385bc9d9d_0_0#slide=id.g3b385bc9d9d_0_0
-
-DataSheets: https://docs.google.com/document/d/1vaIIbQyiWRCPgcjyh2za9kSpH5j5jWLE7tj5EH0FaaE/edit?usp=sharing
 
 Reference: https://randomnerdtutorials.com/esp32-send-messages-whatsapp/ 
